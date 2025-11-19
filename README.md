@@ -1,6 +1,6 @@
 # NCL-Fall-2025
 
-<img width="777" height="283" alt="Screenshot_20251027_135659" src="https://github.com/user-attachments/assets/8c2da267-2aff-4ec7-aa2c-63c7d1c061f4" />
+<img width="1494" height="636" alt="Screenshot_20251118_213010" src="https://github.com/user-attachments/assets/b15feaa2-4347-450c-87ec-86ba7f8436ef" />
 
 My write up for NCL Fall 2025 CTF
 
