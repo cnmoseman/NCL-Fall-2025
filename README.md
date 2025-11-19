@@ -1,4 +1,7 @@
 # NCL-Fall-2025
+
+<img width="777" height="283" alt="Screenshot_20251027_135659" src="https://github.com/user-attachments/assets/8c2da267-2aff-4ec7-aa2c-63c7d1c061f4" />
+
 My write up for NCL Fall 2025 CTF
 
 I competed with six other SANS classmates in the NCL Fall 2025 Team Game, placing Xrd out of X teams nationwide, ranking within the top X% of all competitors. The CTF ran from Friday, November 7th through Sundday, November 9th.
