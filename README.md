@@ -2,9 +2,9 @@
 
 <img width="1494" height="636" alt="Screenshot_20251118_213010" src="https://github.com/user-attachments/assets/b15feaa2-4347-450c-87ec-86ba7f8436ef" />
 
-My write up for NCL Fall 2025 CTF
+My write-up for NCL Fall 2025 CTF
 
-I competed with six other SANS classmates in the NCL Fall 2025 Team Game, placing 29th out of 4214 teams nationwide, ranking within the top 0.69% of all competitors. The CTF ran from Friday, November 7th through Sundday, November 9th.
+I competed with six other SANS classmates in the NCL Fall 2025 Team Game, placing 29th out of 4214 teams nationwide, ranking within the top 0.69% of all competitors. The CTF ran from Friday, November 7th through Sunday, November 9th.
 
 Throughout the event, I gained hands-on experience across several cybersecurity domains, including log analysis, network scanning and reconnaissance, network traffic analysis, password cracking, and more. I was able to apply many of the techniques I learned from SEC401 (GSEC) and SEC504 (GCIH).
 
